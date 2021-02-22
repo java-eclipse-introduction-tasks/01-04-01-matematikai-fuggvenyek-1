@@ -5,7 +5,9 @@ A feladata a diák érettségi átlagának meghatározása. A diák öt tantárg
 Írja ki az érettségi átlagát két tizedes jegyre kerekítve! 
 ### 2. feladat  
 Az egyenleg változó a felhasználó számláján lévő összeget jelöli. Ez egy negatív szám.
+  ```
 egynleg=-30000
+  ```
 Készítsen változót „tartozas” néven, amely a felhasználó tartozását adja meg.
 A tartozást írja ki a következő Java utasítással.
   ```
