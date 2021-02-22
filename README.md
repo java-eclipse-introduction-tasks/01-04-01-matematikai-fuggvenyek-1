@@ -1,6 +1,6 @@
 # 01-04-01-matematikai-fuggvenyek-1
 Matematikai függvények (1)
-### 1. feladt  
+### 1. feladat  
 A feladata a diák érettségi átlagának meghatározása. A diák öt tantárgyból ír érettségit. Kérje be a felhasználó érettségi jegyeit. Ezek egész számok!
 Írja ki az érettségi átlagát két tizedes jegyre kerekítve! 
 ### 2. feladat  
