@@ -9,7 +9,7 @@ Az egyenleg változó a felhasználó számláján lévő összeget jelöli. Ez 
 egynleg=-30000
   ```
 Készítsen változót „tartozas” néven, amely a felhasználó tartozását adja meg.
-A tartozást írja ki a következő Java utasítással.
+A tartozást pozitív számnként szeretné megjeleníteni! Melyik függvényt kell használni! Írja meg a Java kódot!
   ```
     System.out.println("A felhasználó tartozása  "+tartozas+" Ft.");
   ```
